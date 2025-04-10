@@ -1,0 +1,36 @@
+
+*.md text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+
+*.jpg binary
+*.png binary
+*.gif binary
+*.jpeg binary
+*.svg binary
+*.webp binary
+*.ico binary
+
+
+*.log binary
+*.tmp binary
+*.bak binary
+
+
+dist/* binary
+
+
+*.exe binary
+
+
+*.pptx binary
+*.docx binary
+
+
+.idea/* binary
+.vscode/* binary
+*.iml binary
+node_modules/* binary
