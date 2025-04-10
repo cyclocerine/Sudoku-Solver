@@ -74,7 +74,7 @@ Tinggal masukkan 9 baris angka, pisahkan pakai spasi. Kalau kosong, isi angka 0:
 
 1. Download atau clone repository ini
    ```bash
-   git clone https://github.com/username/sudoku-solver.git
+   git clone https://github.com/cyclocerine/sudoku-solver.git
    cd sudoku-solver
    ```
 
@@ -99,12 +99,6 @@ sudo apt-get install python3-tk
 **macOS:**
 ```bash
 brew install python-tk
-```
-
-### Buat Web (Flask)
-
-```bash
-pip install flask
 ```
 
 ## 🔍 Gimana Cara Kerjanya?
