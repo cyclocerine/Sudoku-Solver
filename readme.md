@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51EF9I0)
 # 🧩 Penyelesai Sudoku
 
 Alat sederhana untuk menyelesaikan teka-teki Sudoku, program ini menggunakan algoritma MRV dan Backtracking yang apabila digabungkan menjadi perpaduan yang powerfull.
@@ -141,5 +142,5 @@ Kalau mau bantu pengembangan, boleh banget:
 Program ini bebas dipakai sesuai [Lisensi MIT](LICENSE).
 
 ---
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51EF9I0)
 Dibuat dengan ❤️ oleh cyclocerine
