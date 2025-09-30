@@ -139,7 +139,7 @@ Kalau mau bantu pengembangan, boleh banget:
 
 ## 📜 Lisensi
 
-Program ini bebas dipakai sesuai [Lisensi MIT](LICENSE).
+Program ini bebas dipakai sesuai [Lisensi Apache](LICENSE).
 
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51EF9I0)
